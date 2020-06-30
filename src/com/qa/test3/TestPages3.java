@@ -1,4 +1,4 @@
-package com.qatest3;
+package com.qa.test3;
 public class TestPages3 {
 public static void main(String[] args) {
 	
